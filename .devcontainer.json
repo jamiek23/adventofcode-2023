@@ -1,0 +1,5 @@
+{
+    "name": "adventofcode-2023",
+    "image": "pypkgs/vscode",
+    "extensions": ["ms-python.python"]
+}
